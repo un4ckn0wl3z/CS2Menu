@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/CS2Menu">
+        <file>assets/header_ctt.png</file>
+        <file>assets/hacked-stamp-1.png</file>
+        <file>assets/counter_strike_2_game_icon_by_ceronemo_dgaf20k-fullview.png</file>
+        <file>assets/chipi_chipi.mp3</file>
+        <file>assets/aimbot_activated.mp3</file>
+        <file>assets/aimbot_deactivated.mp3</file>
+        <file>assets/crosshair_activated.mp3</file>
+        <file>assets/crosshair_deactivated.mp3</file>
+        <file>assets/distance_activated.mp3</file>
+        <file>assets/distance_deactivated.mp3</file>
+        <file>assets/esp_box_activated.mp3</file>
+        <file>assets/esp_box_deactivated.mp3</file>
+        <file>assets/health_bar_activated.mp3</file>
+        <file>assets/health_bar_deactivated.mp3</file>
+        <file>assets/health_status_activated.mp3</file>
+        <file>assets/health_status_deactivated.mp3</file>
+        <file>assets/lines_activated.mp3</file>
+        <file>assets/lines_deactivated.mp3</file>
+        <file>assets/team_activated.mp3</file>
+        <file>assets/team_deactivated.mp3</file>
+        <file>assets/trigger_bot_activated.mp3</file>
+        <file>assets/trigger_bot_deactivated.mp3</file>
+    </qresource>
+</RCC>
